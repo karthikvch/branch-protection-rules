@@ -1,49 +1,32 @@
-# PR Details
+### 🛠 Changes being made
 
-<!--- Provide a general summary of your changes in the Title above -->
+Here give examples of the changes you've made in this pull request. Include an itemized list if you can. It'll help the reviewer
 
-## Description
 
-<!--- Describe your changes in detail -->
+### ✨ What's the context?
 
-## Related Issue
+What's the context for the changes? Are there any
 
-<!--- This project only accepts pull requests related to open issues -->
-<!--- If suggesting a new feature or change, please discuss it in an issue first -->
-<!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issue here: -->
 
-## Design
+### 🧠 Rationale behind the change
 
-<!--- Why is this change required? What problem does it solve? How did you solve it? -->
+Why did you choose to make these changes? Were there any trade-offs you had to consider? 
 
-## Reviewers
 
-<!--- List the reviewers you will seek for code review? -->
+### 🧪 Test plan
 
-## How Has This Been Tested
+How do you know the changes are safe to ship to production?
 
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
 
-## Types of changes
+### 📸 Screenshots (optional)
 
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
+If you made UI changes, what are the before an afters?
 
-- [ ] Docs change / refactoring / dependency upgrade
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
 
-## Checklist
+### 🏎 Quality check
 
-<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
+- [ ] Are your changes following SOLID principles?
 
-- [ ] My code follows the code style of this project.
-- [ ] My change requires a change to the documentation.
-- [ ] I have updated the documentation accordingly.
-- [ ] I have read the **CONTRIBUTING** document.
-- [ ] I have added tests to cover my changes.
-- [ ] All new and existing tests passed.
+- [ ] Are there any erroneous console logs, debuggers or leftover code in your changes?
+
+- [ ] Walk away, take a break, re-read what you filled out above does it make sense if you were coming in cold? What extra context could you provide?
